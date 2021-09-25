@@ -4,4 +4,4 @@
 
 Build from: [wtklbm/rust-library-i18n](https://github.com/wtklbm/rust-library-i18n)
 
-Online preview: [Github Pages](https://dirname.github.io/rust-std-doc/)
+Online preview: [Github Pages](https://dirname.github.io/rust-std-doc/std/)
