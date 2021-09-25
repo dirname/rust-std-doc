@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["benchmark",""],["black_box","__提示 __ 到编译器的标识函数，对于 `black_box` 可以做什么最大程度地悲观。"],["fmt_bench_samples",""],["iter",""],["run_once",""]],"struct":[["BenchSamples",""],["Bencher","基准测试管理。"]]});

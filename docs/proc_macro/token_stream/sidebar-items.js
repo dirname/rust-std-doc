@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["IntoIter","遍历 TokenStream 的 TokenTree 的迭代器。 迭代是 “shallow”，例如，迭代器不会递归到定界的组中，而是将整个组作为 token 树返回。"]]});
